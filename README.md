@@ -1,1 +1,1 @@
-# intro-to-data-analysis
+# Intro to Data Analysis
